@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]> <html lang="en"> <!--<![endif]-->
+<head>
+<title>Mojave Rose Band</title>
+<!-- Meta -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="favicon.ico">
+<link href='https://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,900' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
+<!-- Global CSS -->
+<link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+<!-- Plugins CSS -->
+<link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="assets/plugins/vegas/dist/vegas.min.css">
+<!-- Theme CSS -->
+<link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+</head>
+<body bgcolor="#FFFFFF" data-spy="scroll">
+<!-- ******HEADER****** -->
+<header id="header" class="header navbar-fixed-top">
+  <div class="container ">
+    <nav class="main-nav" role="navigation">
+      <div class="navbar-header text-center">
+        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse"> <span class="toggle-title">Menu</span> <span class="icon-bar-wrapper"> </span>
+        <!--//icon-bar-wrapper-->
+        </button>
+        <!--//nav-toggle-->
+      </div>
+      <!--//navbar-header-->
+      <div id="navbar-collapse" class="navbar-collapse collapse text-center">
+        <ul class="nav navbar-nav center-block">
+          <li class="nav-item"><a class="scrollto" href="#promo">Home</a></li>
+          <li class="nav-item"><a class="scrollto" href="#gigs">Gigs</a></li>
+          <li class="nav-item"><a class="scrollto" href="#video">Video</a></li>
+          <li class="nav-item"><a class="scrollto" href="#about">About</a></li>
+          <li class="nav-item"><a class="scrollto" href="#contact">Contact</a></li>
+        </ul>
+        <!--//nav-->
+      </div>
+      <!--//navabr-collapse-->
+    </nav>
+    <!--//main-nav-->
+  </div>
+  <!--//container-->
+</header>
+<!--//header-->
+
+<!-- ******Promo Section****** -->
+<section id="promo" class="promo-section section">
+  <div class="container text-center promo-content">
+    <div class="upper-wrapper"><br><br><br><br><br><br><br>
+      <h1 class="logo-holder"></h1>
+      <h2 class="headline"><img src="MOJAVEROSE.png" alt="Mojave Rose" width="360" height="246"></h2>
+      <div class="tagline">The Perfect Entertainment For Your Event</div>
+    </div>
+  </div>
+  <!--//container-->
+  <div class="updates-block">
+    <div class="container updates-block-inner">
+      <div id="carousel-updates" class="carousel slide" data-ride="carousel" data-interval="6000">
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+          <div class="item active">
+            <div class="carousel-content">
+              <h3 class="title"><a href="#video">Check out live recordings of the band</a></h3>
+              <div class="desc"> </div>
+              <!--//desc-->
+            </div>
+            <!--//content-container-->
+          </div>
+          <!--//item-->
+          <div class="item">
+            <div class="carousel-content no-media-holder">
+              <h3 class="title">We are performing at <a class="highlight" href="https://www.facebook.com/leatherheadssportsbar/">Leatherheads</a> June 17th 9:00pm</h3>
+              <div class="desc"> Come out and support live music. <br>
+                </p>
+                <!--//intro-->
+              </div>
+              <!--//desc-->
+            </div>
+            <!--//content-container-->
+          </div>
+          <!--//item-->
+          <div class="item">
+            <div class="media-holder">
+              <div class="media-thumb"> </div>
+              <!--//media-thumb-->
+            </div>
+            <!--//media-holder-->
+            <div class="carousel-content">
+              <h3 class="title">Check out our <a href="https://www.youtube.com/channel/UCzfjH7vxiPFR9v43ikb1NzA">You Tube Channel</a></h3>
+              <div class="desc">
+                <!--//intro-->
+              </div>
+              <!--//desc-->
+              <a class="btn btn-primary btn-cta" href="https://www.facebook.com/Mojaverose">Like us on Face Book</a> </div>
+            <!--//content-container-->
+          </div>
+          <!--//item-->
+        </div>
+        <!--//carousel-inner-->
+                            <!-- Controls -->
+                    <a class="left carousel-control" href="#carousel-updates" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#carousel-updates" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div><!--//carousel-updates-->
+                
+                
+            </div><!--//container-->
+        </div><!--//updates-block-->
+        
+    </section><!--//promo-section-->
+<!--//promo-section-->
+<section id="gigs" class="gigs-section section">
+  <div class="container">
+    <h2 class="section-title text-center">Upcoming Gigs</h2>
+    <div class="gigs-container">
+      <div class="item">
+        <div class="date-label">
+          <div class="number">17</div>
+          <div class="month">June</div>
+        </div>
+        <!--//date-label-->
+        <div class="gig-info">
+          <div class="info-content">
+            <h3 class="gig-title">Leather Heads</h3>
+            <div class="meta">
+              <ul class="meta-list list-inline">
+                <li class="location"></li>
+                <li class="time"></li>
+              </ul>
+            </div>
+            <!--//meta-->
+          </div>
+          <!--//info-content-->
+          <div class="gig-actions"> <a class="btn btn-xs btn-ghost-secondary" data-toggle="collapse" href="#info-extra-1" aria-expanded="false" aria-controls="info-extra-1" >More info</a> </div>
+          <!--//gig-actions-->
+          <div id="info-extra-1" class="collapse info-extra"> Show Starts at 9 p.m. We will play a full night. Come and support live music.</div>
+        </div>
+        <!--//info-extra-->
+      </div>
+      <!--//item-->
+      <div class="item">
+        <div class="date-label">
+          <div class="number">3</div>
+          <div class="month">July</div>
+        </div>
+        <!--//date-label-->
+        <div class="gig-info">
+          <div class="info-content">
+            <h3 class="gig-title">Gunnison</h3>
+            <div class="meta">
+              <ul class="meta-list list-inline">
+                <li class="location"></li>
+                <li class="time"></li>
+              </ul>
+            </div>
+            <!--//meta-->
+          </div>
+          <!--//info-content-->
+          <div class="gig-actions"> <a class="btn btn-xs btn-ghost-secondary" data-toggle="collapse" href="#info-extra-2" aria-expanded="false" aria-controls="info-extra-2" >More info</a> </div>
+          <!--//gig-actions-->
+          <div id="info-extra-2" class="collapse info-extra"> 4th of July Festivals for the City of Gunnison </div>
+        </div>
+        <!--//info-extra-->
+      </div>
+      <!--//item-->
+      <div class="item">
+        <div class="date-label">
+          <div class="number">4</div>
+          <div class="month">JUly</div>
+        </div>
+        <!--//date-label-->
+        <div class="gig-info">
+          <div class="info-content">
+            <h3 class="gig-title">Duschene</h3>
+            <div class="meta">
+              <ul class="meta-list list-inline">
+                <li class="location"></li>
+                <li class="time"></li>
+              </ul>
+            </div>
+            <!--//meta-->
+          </div>
+          <!--//info-content-->
+          <div class="gig-actions"> <a class="btn btn-xs btn-ghost-secondary" data-toggle="collapse" href="#info-extra-3" aria-expanded="false" aria-controls="info-extra-3" >More info</a> </div>
+          <!--//gig-actions-->
+          <div id="info-extra-3" class="collapse info-extra"> 4th of July Festival with Fireworks for Dunchene County. </div>
+        </div>
+        <!--//info-extra-->
+      </div>
+      <!--//item-->
+      <div class="item">
+        <div class="date-label">
+          <div class="number">24</div>
+          <div class="month">July</div>
+        </div>
+        <!--//date-label-->
+        <div class="gig-info">
+          <div class="info-content">
+            <h3 class="gig-title">Spanish Fork</h3>
+            <div class="meta">
+              <ul class="meta-list list-inline">
+                <li class="location"></li>
+                <li class="time"></li>
+              </ul>
+            </div>
+            <!--//meta-->
+          </div>
+          <!--//info-content-->
+          <div class="gig-actions"> <a class="btn btn-xs btn-ghost-secondary" data-toggle="collapse" href="#info-extra-4" aria-expanded="false" aria-controls="info-extra-4" >More info</a> </div>
+          <!--//gig-actions-->
+          <div id="info-extra-4" class="collapse info-extra"> Wake the Dead Fireworks Festival Spanish Fork. </div>
+        </div>
+        <!--//info-extra-->
+      </div>
+      <!--//item-->
+    </div>
+    <!--//gigs-container-->
+    <div class="gigs-contact text-center">
+      <p>Mojave Rose is a high-energy modern country band that plays the best of modern and classic country. Mojave Rose is the perfect act to round off (or round up) your event. From rodeos to weddings, from corporate   parties to festivals, Mojave Rose has the best mix of cover tunes to get   people up and dancing. Mojave Rose features the amazing baritone vocals of Michael Kendal Harris complimented with versatile tenor vocals of   Anthony Penrose and the beautiful and talented Sarah Ziroll. Together   they make up Mojave Rose's front line with heartwarming ballads and powerful duets. Backed-up by a rockin' rhythm section and masterful instrumentation, Mojave Rose always delivers a highly entertaining show.</p>
+      <h4 class="title"> Testimonials</h4>
+      “What a great performance and experience working with Mojave Rose. This group of musicians was an excellent choice for our event. You always want a group that sounds good. These guys (and girl) sounded great. You also want a group that shows up on time. Mojave Rose took the time to conduct line dancing instruction earlier in the day, and then preformed later in the evening. And you want a group that is motivated to make people relax, move and be happy with their music. They took the initiative to jump on stage an hour early and play during dinner getting an entire tent of 600 people moving. Our event was held at a large resort, and when the resort guests start joining your event because the entertainment was awesome, you know you made a great choice. I understand they also went off the set list with an impromptu version of ‘Piano Man’ and they did it justice. Make that a regular on the set list! We would definitely book Mojave Rose again, and we cannot send enough thanks and gratitude to the entire band for capping off our event with such great talent. Way to Go Mojave Rose!”
+      
+      -Mike Rose, Chief Business Development Officer, Wavetronix LLC, Provo, UTWant to book a private gig? <a href="mailto:band@mojaveroseband.com?subject=Booking">Book us for an event</a> </div>
+    <!--//gigs-->
+  </div>
+  <!--//container-->
+</section>
+<!--//gigs-section-->
+<section id="audio" class="music-section text-center">
+<div class="container">
+  <h2 class="section-title">Music</h2>
+  <div class="sc-block center-block">
+    <div class="item">
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/322163870&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+    </div>
+    <!--//item-->
+    <div class="item">
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/322163836&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+    </div>
+    <!--//item-->
+    <div class="item">
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/322163316&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+    </div>
+    <!--//item-->
+    <div class="item">
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/322163023&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+    </div>
+    <div class="item">
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/322163162&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+    </div>
+    <div class="item">
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/322152960&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+    </div>
+    <div class="item">
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/322151587&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+    </div>
+    <!--//sc-block-->
+    <section id="videos" class="music-section section">
+    <!--//item-inner-->
+   
+  </div>
+</div>
+
+<!--//row-->
+<section id="video" class="music-section text-center">
+<div class="container">
+  <h2 class="section-title">Video</h2>
+
+<iframe width="320" height="180" src="https://www.youtube.com/embed/UdHhLIVutcg?list=PLoAZEfU-wmqgygAi3W9DDGjQr-P78_rnq" frameborder="0" allowfullscreen></iframe><br>
+Can't the see the video? Watch it <a href="https://youtu.be/UdHhLIVutcg?list=PLoAZEfU-wmqgygAi3W9DDGjQr-P78_rnq" target="_blank">Here</a><br>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/tjTkwkk38n4" frameborder="0" allowfullscreen></iframe><br>
+Can't the see the video? Watch it <a href="https://youtu.be/tjTkwkk38n4" target="_blank">Here</a><br>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/ZdN3u3XO9LM?list=PLoAZEfU-wmqgygAi3W9DDGjQr-P78_rnq" frameborder="0" allowfullscreen></iframe><br>
+Can't the see the video? Watch it <a href="https://youtu.be/ZdN3u3XO9LM" target="_blank">Here</a><br>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/w30QFwH_mE8" frameborder="0" allowfullscreen></iframe><br>
+Can't the see the video? Watch it <a href="https://youtu.be/w30QFwH_mE8" target="_blank">Here</a><br>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/miO_uqoM_fk?list=PLoAZEfU-wmqgygAi3W9DDGjQr-P78_rnq" frameborder="0" allowfullscreen></iframe><br>
+Can't the see the video? Watch it <a href="https://youtu.be/miO_uqoM_fk" target="_blank">Here</a><br>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/Z5wlyG9IUP0?list=PLoAZEfU-wmqgygAi3W9DDGjQr-P78_rnq" frameborder="0" allowfullscreen></iframe><br>
+Can't the see the video? Watch it <a href="https://youtu.be/Z5wlyG9IUP0?list=PLoAZEfU-wmqgygAi3W9DDGjQr-P78_rnq" target="_blank">Here</a><br>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/JBp2_-4nk6s" frameborder="0" allowfullscreen></iframe><br>
+Can't the see the video? Watch it <a href="https://youtu.be/JBp2_-4nk6s" target="_blank">Here</a><br>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/1uSiSiKsgFw" frameborder="0" allowfullscreen></iframe><br>
+Can't the see the video? Watch it <a href="\" target="_blank">Here</a><br>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/gQACG5kyQJU" frameborder="0" allowfullscreen></iframe><br>
+Can't the see the video? Watch it <a href="https://youtu.be/gQACG5kyQJU" target="_blank">Here</a><br>
+
+</div>
+
+<!--//albums-block-->
+<div class="music-action"> <a class="btn btn-ghost-primary" href="https://www.youtube.com/channel/UCzfjH7vxiPFR9v43ikb1NzA">Visit Our You Tube Channel</a>
+  <!--//music-section-->
+</div>
+</div>
+<section id="about" class="about-section section text-center">
+<div class="container">
+<h2 class="section-title">About</h2>
+<div class="section-intro center-block"></div>
+<div class="members-block">
+  <div class="row">
+    <div class="item col-xs-6 col-md-3">
+      <div class="item-inner">
+        <div class="member-profile"><img src="assets/images/members/Tony.jpg" alt="Tony Penrose" width="200" height="200"></div>
+        <!--//member-profile-->
+        <div class="member-label">Vocals,  Guitar</div>
+        <h3 class="member-name">Tony Penrose</h3>
+        <div class="member-desc"> Tony started playing music when he found a guitar in his dad's garage at 13.   Since then he has played in downtown Nashville, Vegas, California, and   most of the west coast. Tony has won multiple karaoke competitions over   the past 15 years including 2nd place in a national singing competition   in Laughlin, Nevada. He has been playing solo shows around Utah for the   last 2 years. Most notable is playing with members of Tim McGraw's band.</div>
+      </div>
+      <!--//item-inner-->
+    </div>
+    <!--//item-->
+    <div class="item col-xs-6 col-md-3">
+      <div class="item-inner">
+        <div class="member-profile"><img src="assets/images/members/Mike.jpg" alt="Mike Harris" width="200" height="200"></div>
+        <!--//member-profile-->
+        <div class="member-label">Vocals, Keys</div>
+        <h3 class="member-name"> Michael Kendal Harris</h3>
+        <div class="member-desc">Michael has been singing and playing the piano, in some capacity, for audiences since he was four years old. Michael has been totally blind his entire life due to a genetic birth defect. Therefore, he uses hearing as his primary sense. Some feel that it is because of this, that Michael has an uncanny ability to nearly duplicate the sound of any singer in his two and a half octave vocal range. It is this talent that has helped him win many awards and accolades in the music field throughout his life, including the national male country talent quest, Karaoke champion in 2004, and the male pop title in the same contest in 2006. </div>
+      </div>
+      <!--//item-inner-->
+    </div>
+    <!--//item-->
+    <div class="item col-xs-6 col-md-3">
+      <div class="item-inner">
+        <div class="member-profile"><img src="assets/images/members/sarah.jpg" alt="Sarah Ziroll" width="200" height="200"></div>
+        <!--//member-profile-->
+        <div class="member-label">Vocals, Fiddle</div>
+        <h3 class="member-name"> Sarah Ziroll</h3>
+        <div class="member-desc"> Sarah is a master violinist and vocalist whose music has enchanted audiences around the world. Not just a pretty face, Sarah is a triple threat. She started playing Violin at the age of 5 and holds a masters degree in violin performance from the University of Utah. Sarah  has performed on major motion picture sound tracks and orchestral ensembles. Sarah also sings and writes music and teaches violin through her <a href="http://2sarahnade.com">website</a></div>
+      </div>
+      <!--//item-inner-->
+    </div>
+    <!--//member-profile-->
+    <!--//item-->
+    <div class="item col-xs-6 col-md-3">
+      <div class="item-inner">
+        <div class="member-profile"><img src="assets/images/members/John.jpg" alt="John Clark" width="200" height="200"></div>
+        <!--//member-profile-->
+        <div class="member-label">Vocals, Guitar</div>
+        <h3 class="member-name">John Clark</h3>
+        <div class="member-desc">
+          <p>Originally from Tucson Arizona, Johnny Plays guitar and manages Mojave Rose. He is a graduate of the University of Utah music program with a double major in composition and jazz performance. John recieved the Presidents Award and was place on the Dean's list for the music department and was a member of the University Jazz Guitar Ensemble. John is an application engineer Harman International (currently the largest audio company in the world) and is involved daily with audio system design and integration and support for BSS Audio and IDX systems. At Harman, John is involved in audio design and works on many high profile audio systems including NFL arena's, Las Vegas casinos, international airports and large theme parks. In his spare time he composes music in his home studio, works on computers, and of course playing guitar. </p>
+        </div>
+      </div>
+      <!--//item-inner-->
+    </div>
+    <!--//item-->
+  </div>
+  <!--//row-->
+</div>
+<!--//members-block-->
+<br>
+<div class="container">
+  <div class="section-intro center-block"></div>
+  <div class="members-block">
+    <div class="row">
+      <div class="item col-xs-6 col-md-3">
+  		<div class="item-inner">
+          <div class="member-profile"><img src="assets/images/members/Jeff.jpg" alt="Jeff Walpole" width="200" height="200"></div>
+          <!--//member-profile-->
+          <div class="member-label">Vocals, Drums</div>
+          <h3 class="member-name"> Jeff Walpole</h3>
+          <div class="member-desc">Jeff has been playing   drums and percussion since he was 9 years old. A university music   scholarship allowed Jeff to play in a variety of musical settings,   including symphony orchestras, marching bands and jazz ensembles.&nbsp; This   also secured him multiple drum students and a performance seat in the   music industry. This part-time position has evolved into 35 years of   recording, touring and performing in multiple bands, including The Keith   Gilley Band, The Dudes, Gypsy Train, Tabu (a Santana Tribute band),   Artie Hemphill &amp;The Iron Horse Band, and players from the Steve   Miller Band among many other acts.</div>
+        </div>
+        <!--//item-inner-->
+      </div>
+      <!--//item-->
+      <div class="item col-xs-6 col-md-3">
+        <div class="item-inner">
+          <div class="member-profile"><img src="assets/images/members/Joe.jpg" alt="Joe Dobesh" width="200" height="200"></div>
+          <!--//member-profile-->
+          <div class="member-label">Bass</div>
+          <h3 class="member-name"> Joseph Dobesh </h3>
+          <div class="member-desc">
+            <p>Joe first developed a love for country as a small child watching Roy Clark tearing it up on his banjo on Hee Haw. He started playing bass guitar in high school and mostly played in rock bands, but never lost that place in his heart for pickin' and a grinnin'. Once out of high school, he expanded his talents in blues and country and played in a variety of bands around Minnesota. After moving to Utah in 2000, Joe played in many country bands in the valley, including Monrovia, Rawhide, MoDixy, and Rockwell Station. Along with his other half, Jeff on drums, Joe lays down solid rhythms that drive the unique sound which is Mojave Rose. Joe has a degree in engineering and when he is not playing, he loves the outdoors, traveling and hanging with his children</p>
+          </div>
+        </div>
+        <!--//item-inner-->
+      </div>
+      <!--//item-->
+      <div class="clearfix visible-xs"></div>
+      <div class="item col-xs-6 col-md-3">
+        <div class="item-inner">
+          <div class="member-profile"></div>
+          <!--//member-profile-->
+          <div class="member-desc">
+          </div>
+        </div>
+        <!--//item-inner-->
+      </div>
+      <!--//member-profile-->
+    </div>
+    <!--//row-->
+  </div>
+  <!--//members-block-->
+</div>
+<br>
+<h2 class="section-title">Example Song List</h2>
+<p>Mojave Rose plays a variety of music besides country. Our list includes current top 40 dance hits as well as rock classics</p>
+<div class="container">
+  <table width="202" align="center" cellpadding="0" cellspacing="0">
+    <col width="173">
+    <col width="274">
+    <tr height="20">
+      <td width="198" height="20"><div align="center">Song</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">500 Miles</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Aint Going Down</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">All About That Bass</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">All Summer Long</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Amarillo    By Morning</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Any    Man of Mine </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Aw    Naw </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Bartender </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Before    He Cheats </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Better    Dig Two </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Better    Man</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Blue    Aint Your Color</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Boot    Scootin' Boogey </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Boys    Round Here</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Breakeven</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Bright Lights</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Callin Baton Rogue</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Cheap Thrills</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Chicken Fried</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Closer (ft. Halsey)</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Cotton Eye Joe </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Counting Stars</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Country Girl </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Dirt Road Anthem </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Don't You Wanna Stay</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Drink In My Hand </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Drivin Around    Song </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Everybody Talks </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Fiddle</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Foot Loose</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Friday Night </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Get Lucky</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Gone    Gone Gone</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Good    Girl </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Honky    Tonk Badonkadonk </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Hotel California</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">I Like It, I Love    It </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">I Love This Bar </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">I Love This Life </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Im a Believer</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">In    Anothers Eyes</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">It Wasn't Me</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">I've Got Friends in    Low Places </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Jump</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Kick The Dust Up </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Lights (Single Version) </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Little Red Wagon </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Make Me Wanna </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Mama's Broken    Heart </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Man! I Feel Like a    Woman! </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Me Neither</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Need You Now </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Old Alabama </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Rodeo</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Sangria </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Save a Horse</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Shameless</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Shes Country  </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Shotgun Rider </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Smooth</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Sold</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Somewhere With    You </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Springsteen </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Thats My Kind Of    Night </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">The Devil Went Down    To Georgia</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">The    River</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Thunder    Rolls</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Toes</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Uptown Funk</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Wagon Wheel </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Watermelon Crawl </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">We Went</div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">What Was I Thinkin </div></td>
+    </tr>
+    <tr height="20">
+      <td height="20"><div align="center">Why Don't We Just    Dance </div></td>
+    </tr>
+  </table>
+</div>
+<br>
+<br>
+<!--//container-->
+<!--//about-section-->
+<div id="contact" class="contact-section section text-center">
+  <div class="container">
+    <h2 class="section-title">Contact</h2>
+    <div class="section-intro center-block"></div>
+    <div class="contact-block center-block">
+      <div class="row">
+        <div class="item col-xs-12 col-md-4">
+          <div class="item-inner">
+            <div class="icon-holder"> <i class="fa fa-info-circle"></i> </div>
+            <!--//icon-holder-->
+            <h4 class="title">General</h4>
+            <div class="email"><a href="mailto:band@mojaveroseband.com?subject=Mail from Our Site">band@mojaveroseband.com</a></div>
+          </div>
+          <!--//item-inner-->
+        </div>
+        <!--//item-->
+        <div class="item col-xs-12 col-md-4">
+          <div class="item-inner">
+            <div class="icon-holder"> <i class="fa fa-calendar-check-o"></i> </div>
+            <!--//icon-holder-->
+            <h4 class="title">Booking</h4>
+            <div class="email"><a href="mailto:jeff@mojaveroseband.com?subject=Mail from Our Site">jeff@mojaveroseband.com</a> </div>
+            <!--//item-inner-->
+          </div>
+          <!--//item-->
+          <!--//item-->
+        </div>
+        <!--//row-->
+      </div>
+      <!--//contact-list-->
+    </div>
+    <!--//channels-block-->
+    <div class="social-media-block">
+      <ul class="list-inline social-media-list">
+        <li><a href="https://www.youtube.com/channel/UCzfjH7vxiPFR9v43ikb1NzA"><i class="fa fa-youtube"></i></a></li>
+        <li><a href="https://www.facebook.com/Mojaverose/"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://twitter.com/MojaveRoseUtah"><i class="fa fa-twitter"></i></a></li>
+      </ul>
+    </div>
+    <!--//social-media-block-->
+  </div>
+  <!--//containter-->
+</div>
+<!-- ******FOOTER****** -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer-content text-center">
+      <div class="copyright">Mojave Rose Band</div>
+    </div>
+    <!--//footer-content-->
+  </div>
+  <!--//container-->
+</footer>
+<!--//footer-->
+<!-- Video Modal -->
+<div class="modal modal-video" id="modal-video" tabindex="-1" role="dialog" aria-labelledby="videoModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 id="videoModalLabel" class="modal-title sr-only">Music Video</h4>
+      </div>
+      <div class="modal-body">
+        <div class="video-container">
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/mCHUw7ACS8o?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+        <!--//video-container-->
+      </div>
+      <!--//modal-body-->
+    </div>
+    <!--//modal-content-->
+  </div>
+  <!--//modal-dialog-->
+</div>
+<!--//modal-->
+<!-- Info Modal -->
+<div id="modal-info" class="modal-info modal" tabindex="-1" role="dialog" aria-labelledby="infoModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      </div>
+      <!--//modal-header-->
+      <div class="modal-body">
+        <p>Mojave Rose is a high-energy modern country band that plays the best of modern and classic country. Mojave Rose is the perfect act to round off (or round up) your event. From rodeos to weddings, from corporate parties to festivals, Mojave Rose has the best mix of cover tunes to get people up and dancing. Mojave Rose features the amazing baritone vocals of Michael Kendal Harris complimented with versatile tenor vocals of Anthony Penrose and the beautiful and talented Sarah Ziroll. Together they make up Mojave Rose's front line with heartwarming ballads and powerful duets. Backed-up by a rockin' rhythm section and masterful instrumentation, Mojave Rose always delivers a highly entertaining show.</p>
+        <div class="center-block text-center">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.319931873737!2d-2.59156458423205!3d51.45228217962615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48718e7bd5fd30fd%3A0x9acbbf4d84e5ca8c!2sThe+Fleece!5e0!3m2!1sen!2sus!4v1454805283508" width="640" height="360" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <!--//modal-body-->
+    </div>
+    <!--//modal-content-->
+  </div>
+</div>
+<!--//modal-->
+<!-- Main Javascript -->
+<script type="text/javascript" src="assets/plugins/jquery-1.12.3.min.js"></script>
+<script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>
+<script type="text/javascript" src="assets/plugins/back-to-top.js"></script>
+<script type="text/javascript" src="assets/plugins/vegas/dist/vegas.min.js"></script>
+<script type="text/javascript" src="assets/js/main.js"></script>
+</body>
+</html>
