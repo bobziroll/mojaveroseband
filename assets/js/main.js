@@ -120,4 +120,10 @@ $(document).ready(function() {
  
     });
 
+    var quoteSubmitBtn = $("#quote-form-submit");
+    var quoteForm = $("#quote-form");
+    quoteSubmitBtn.on("click", function (e) {
+
+    })
+
 });
